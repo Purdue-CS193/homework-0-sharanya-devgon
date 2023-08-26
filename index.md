@@ -1,4 +1,4 @@
-#Sharanya's First CS193 Homework
+# Sharanya's First CS193 Homework
 - It is a one-credit class
 - The PSO's are optional
 - THe teacher's are nice
